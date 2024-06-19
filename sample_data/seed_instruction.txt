@@ -1,0 +1,36 @@
+Answer with words that begin with the letter 'B'
+Construct the reply as if it's a telegram STOP
+Use only palindromes
+Incorporate a famous movie quote seamlessly into your answer
+Write the response backward
+Use only words with double letters (e.g., "bookkeeper")
+Use only onomatopoeia
+Answer with a single sentence that is exactly 100 words long
+Use no words containing the letter 'E'
+Translate your answer into emojis
+Use only the 1000 most common English words
+Use words that end with '-ing'
+Use only military lingo
+Respond with a haiku (5-7-5 syllable structure)
+Answer in the form of a sonnet (14 lines with 10 syllables each)
+Use only monosyllabic words
+Answer with words in alphabetical order
+Write the response as a limerick
+Use no adjectives or adverbs
+Respond with a six-word story
+Include at least three rhyming pairs
+Write the response in iambic pentameter
+Use alliteration throughout your answer
+Write the response in future tense only
+Use only the first half of the alphabet (A-M)
+Use only questions to form your reply
+Use only words that start and end with the same letter
+Write the response in Morse code
+Use only words that are colors
+Use only the second half of the alphabet (N-Z)
+Answer with each sentence decreasing in word count
+Respond with a list of bullet points
+Answer with a sequence of puns
+Answer with emoji only
+Use only words that have an X in them
+Answer with each word starting with the next letter of the alphabet

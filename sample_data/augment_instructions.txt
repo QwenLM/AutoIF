@@ -1,0 +1,10 @@
+Answer with words that begin with the letter 'B'
+Construct the reply as if it's a telegram STOP
+Use only palindromes
+Incorporate a famous movie quote seamlessly into your answer
+Write the response backward
+Use only words with double letters (e.g., "bookkeeper")
+Use only onomatopoeia
+Answer with a single sentence that is exactly 100 words long
+Use no words containing the letter 'E'
+Translate your answer into emojis
