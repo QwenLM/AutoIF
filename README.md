@@ -3,10 +3,6 @@
 ![Large Language Models](https://img.shields.io/badge/Task-Large%20Language%20Models-red)
 ![Instruction Following](https://img.shields.io/badge/Field-Instruction%20Following-blue)
 
-https://paperswithcode.com/sota/instruction-following-on-ifeval?Model=AutoIF(Llama3-70B)
-
-https://paperswithcode.com/sota/instruction-following-on-ifeval
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instruction-following-on-ifeval)](https://paperswithcode.com/sota/instruction-following-on-ifeval?Model=AutoIF(Llama3-70B))
 ## :sparkles: Overview
 
 This is the repository for the code and data of **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
