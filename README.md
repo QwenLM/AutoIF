@@ -36,7 +36,7 @@ Firstly, we hand-write 36 seed instructions：
 <img width="757" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/56ae3a0e-bf33-4bc5-a965-3d2839f13d75">
 
 
-**Step1: Self-instruct Seed Instructions**
+- **Step1: Self-instruct Seed Instructions**
 
 Concatenate the instruction with the RFT prompt.
 
