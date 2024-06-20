@@ -28,7 +28,11 @@ pip install -r requirements.txt
 ```
 ---
 
-### Instruction Augmentation and Verification
+## Instruction Augmentation and Verification
+
+We first illustrate our hand-written seed instructions：
+<img width="757" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/56ae3a0e-bf33-4bc5-a965-3d2839f13d75">
+
 
 **Step1: Self-instruct Seed Instructions**
 
@@ -71,7 +75,7 @@ python 5_eval_func_backtranslator_filter.py
 
 ---
 
-### Query Augmentation and Verification
+## Query Augmentation and Verification
 
 **Step1: Query Reforming and Augmentation**
 
@@ -214,11 +218,13 @@ deepspeed --num_gpus 8 train_bash.py \
         --plot_loss \
         --fp16
 ```
-
+---
 
 ## Overall Results
 
+
 Main Results
 <img width="967" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/3f8e9fc3-5dab-4167-bcf1-df673e3a59b9">
+
 
 
