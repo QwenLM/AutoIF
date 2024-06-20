@@ -13,9 +13,7 @@ We introduce **AutoIF**, the first scalable and reliable method for automaticall
 
 
 ## :rocket: Data Synthesis of AutoIF
-We divided the AutoIF's data synthesis process into steps and provided 10-20 samples per step to facilitate your reproduction. 
-
-Please remember to replace them with your own input.
+We divided the AutoIF's data synthesis process into steps and provided 10-20 samples per step to facilitate your reproduction. Please remember to replace them with your own input.
 
 ### :wrench: Dependencies
 General Setup Environment:
