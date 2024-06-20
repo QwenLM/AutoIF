@@ -3,6 +3,9 @@
 ![Large Language Models](https://img.shields.io/badge/Task-Large%20Language%20Models-red)
 ![Instruction Following](https://img.shields.io/badge/Field-Instruction%20Following-blue)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instructerc-reforming-emotion-recognition-in/emotion-recognition-in-conversation-on-4)](https://paperswithcode.com/sota/emotion-recognition-in-conversation-on-4?p=instructerc-reforming-emotion-recognition-in)
+
+
 ## :sparkles: Overview
 
 This is the repository for the code and data of **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
