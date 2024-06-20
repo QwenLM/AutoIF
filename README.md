@@ -6,7 +6,7 @@
 https://paperswithcode.com/sota/instruction-following-on-ifeval?Model=AutoIF(Llama3-70B)
 
 https://paperswithcode.com/sota/instruction-following-on-ifeval
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/instruction-following-on-ifeval)](https://paperswithcode.com/sota/instruction-following-on-ifeval?Model=AutoIF(Llama3-70B))
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instruction-following-on-ifeval)](https://paperswithcode.com/sota/instruction-following-on-ifeval?Model=AutoIF(Llama3-70B))
 ## :sparkles: Overview
 
 This is the repository for the code and data of **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
