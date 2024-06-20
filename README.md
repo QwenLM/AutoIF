@@ -7,7 +7,7 @@
 
 This is the official resources of "Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models". Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou.
 
-We introduce **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data. The overall framework is as follow:
+We introduce **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
 
 <img width="1176" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/1fac1764-a9fb-457d-ba90-7f0e08ff4153">
 
