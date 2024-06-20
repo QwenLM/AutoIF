@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Instruction Augmentation and Verification
 
-We first illustrate our hand-written seed instructions：
+Firstly, we hand-write 36 seed instructions：
 <img width="757" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/56ae3a0e-bf33-4bc5-a965-3d2839f13d75">
 
 
