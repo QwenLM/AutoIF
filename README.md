@@ -5,7 +5,7 @@
 This is the repository for the code and data of **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
 
 <img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/6decbbd3-ae2b-4e68-a6e3-f9cb9c7e8911">
-<img width="769" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/ba24a51f-9988-4de9-bcea-27b99433eb92">
+<img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/ba24a51f-9988-4de9-bcea-27b99433eb92">
 
 
 ## :rocket: Data Synthesis of AutoIF
