@@ -1,6 +1,6 @@
 # Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
 
-![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-red)
+![Large Language Models](https://img.shields.io/badge/Model-Large%20Language%20Models-red)
 ![Instruction Following](https://img.shields.io/badge/Task-Instruction%20Following-blue)
 
 ## :sparkles: Overview
