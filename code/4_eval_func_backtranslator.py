@@ -28,7 +28,6 @@ random.seed(0)
 
 
 
-# 读取json文件
 filter_results = []
 count = 0 
 filter_count =0
