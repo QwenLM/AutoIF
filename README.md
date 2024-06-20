@@ -22,6 +22,7 @@ General Setup Environment:
 cd ./AutoIF/
 pip install -r requirements.txt
 ```
+---
 
 ### Instruction Augmentation and Verification
 
@@ -64,6 +65,8 @@ python 4_eval_func_backtranslator.py
 python 5_eval_func_backtranslator_filter.py
 ```
 
+---
+
 ### Query Augmentation and Verification
 
 **Step1: Query Reforming and Augmentation**
@@ -98,6 +101,7 @@ python 8_query_score_filiter.py
 python 9_sft_data_construction.py
 ```
 
+---
 
 ## ⚡ DPO Data Construction
 
