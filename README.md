@@ -4,6 +4,8 @@
 
 This is the repository for the code and data of AutoIF. The first scalable and reliable method for automatically generating instruction-following training data.
 
+<img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/6decbbd3-ae2b-4e68-a6e3-f9cb9c7e8911">
+
 
 ## :rocket: Data Synthesis of AutoIF
 We divided the AutoIF's data synthesis process into steps and provided 10-20 samples per step to facilitate your reproduction. 
