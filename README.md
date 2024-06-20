@@ -115,7 +115,7 @@ python 9_sft_data_construction.py
 ## ⚡ DPO Data Construction
 
 
-<img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/ba24a51f-9988-4de9-bcea-27b99433eb92">
+<img width="1178" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/ffd5d155-ae71-4be2-a975-5deb181a818e">
 
 
 :sparkles:Tips:
