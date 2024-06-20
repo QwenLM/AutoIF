@@ -10,7 +10,6 @@
 Qwen, Alibaba Inc.
 
 This is the repository contains core implementations of the **AutoIF**, proposed by [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models]().
-
 AutoIF is the first scalable and reliable method for automatically generating instruction-following training data.
 
 <img width="1176" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/1fac1764-a9fb-457d-ba90-7f0e08ff4153">
