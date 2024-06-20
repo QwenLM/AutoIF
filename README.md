@@ -11,7 +11,6 @@ We introduce **AutoIF**, the first scalable and reliable method for automaticall
 
 ![Uploading image.png…]()
 
-
 ## :rocket: Data Synthesis of AutoIF
 We divided the AutoIF's data synthesis process into steps and provided 10-20 samples per step to facilitate your reproduction. 
 
