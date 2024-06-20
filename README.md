@@ -5,7 +5,9 @@
 
 ## :sparkles: Overview
 
-This is the repository for the code and data of **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
+This is the official resources of "Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models". Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou.
+
+We introduce **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data. The overall framework is as follow:
 
 <img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/6decbbd3-ae2b-4e68-a6e3-f9cb9c7e8911">
 
