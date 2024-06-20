@@ -217,6 +217,8 @@ deepspeed --num_gpus 8 train_bash.py \
         --plot_loss \
         --fp16
 ```
+For the implementations details between training 7B and 70B models, please refer to our paper.
+
 ---
 
 ## Overall Results
