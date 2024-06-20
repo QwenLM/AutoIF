@@ -9,7 +9,7 @@ This is the official resources of "Self-play with Execution Feedback: Improving 
 
 We introduce **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data. The overall framework is as follow:
 
-<img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/6decbbd3-ae2b-4e68-a6e3-f9cb9c7e8911">
+![Uploading image.png…]()
 
 
 ## :rocket: Data Synthesis of AutoIF
