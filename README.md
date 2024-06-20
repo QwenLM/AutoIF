@@ -2,9 +2,10 @@
 
 ## :sparkles: Overview
 
-This is the repository for the code and data of AutoIF. The first scalable and reliable method for automatically generating instruction-following training data.
+This is the repository for the code and data of **AutoIF**, the first scalable and reliable method for automatically generating instruction-following training data.
 
 <img width="962" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/6decbbd3-ae2b-4e68-a6e3-f9cb9c7e8911">
+<img width="769" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/ba24a51f-9988-4de9-bcea-27b99433eb92">
 
 
 ## :rocket: Data Synthesis of AutoIF
@@ -105,6 +106,7 @@ python 9_sft_data_construction.py
 
 ## ⚡ DPO Data Construction
 
+
 Please process your SFT data using the eval functions generated in the previous step, and format the results as dpo_query_eval_score_results.jsonl.
 
 
@@ -132,6 +134,7 @@ python 2_dpo_data_query_construct.py
 
 After construction you need to process as the DPO data format in [LlaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 
+---
 
 ## 🎯 Training
 
