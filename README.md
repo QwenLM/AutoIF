@@ -214,3 +214,11 @@ deepspeed --num_gpus 8 train_bash.py \
         --plot_loss \
         --fp16
 ```
+
+
+## Overall Results
+
+Main Results
+<img width="967" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/3f8e9fc3-5dab-4167-bcf1-df673e3a59b9">
+
+
