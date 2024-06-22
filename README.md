@@ -11,6 +11,19 @@ Qwen, Alibaba Inc.
 
 This is the repository contains core implementations of the **AutoIF**, proposed by [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models]().
 
+If you find this work helpful for your research, please kindly cite it.
+
+```bibtex
+@misc{dong2024selfplay,
+      title={Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models}, 
+      author={Guanting Dong and Keming Lu and Chengpeng Li and Tingyu Xia and Bowen Yu and Chang Zhou and Jingren Zhou},
+      year={2024},
+      eprint={2406.13542},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}
+```
+
 AutoIF is the first scalable and reliable method for automatically generating instruction-following training data.
 
 <img width="1176" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/1fac1764-a9fb-457d-ba90-7f0e08ff4153">
