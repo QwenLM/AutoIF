@@ -9,7 +9,7 @@
 
 Qwen, Alibaba Inc.
 
---
+------
 
 This is the repository contains core implementations of the **AutoIF**, proposed by [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://arxiv.org/abs/2406.13542).
 
