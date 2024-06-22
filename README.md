@@ -232,6 +232,8 @@ For the implementations details between training 7B and 70B models, please refer
 
 <img width="967" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/3f8e9fc3-5dab-4167-bcf1-df673e3a59b9">
 
+---
+
 
 ## Citation
 
