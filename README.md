@@ -2,13 +2,14 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-play-with-execution-feedback-improving/instruction-following-on-ifeval)](https://paperswithcode.com/sota/instruction-following-on-ifeval?p=self-play-with-execution-feedback-improving)
 
-## :sparkles: Overview
-
 *Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou*
 
 Qwen, Alibaba Inc.
 
 ------
+
+## :sparkles: Overview
+
 
 This is the repository contains core implementations of the **AutoIF**, proposed by [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://arxiv.org/abs/2406.13542).
 
