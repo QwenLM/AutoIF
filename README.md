@@ -6,7 +6,6 @@
 
 Qwen, Alibaba Inc.
 
-------
 
 ## :sparkles: Overview
 
