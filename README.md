@@ -1,8 +1,6 @@
 # Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-play-with-execution-feedback-improving/instruction-following-on-ifeval)](https://paperswithcode.com/sota/instruction-following-on-ifeval?p=self-play-with-execution-feedback-improving)
-![Large Language Models](https://img.shields.io/badge/Model-Large%20Language%20Models-red)
-![Instruction Following](https://img.shields.io/badge/Task-Instruction%20Following-blue)
 
 ## :sparkles: Overview
 
