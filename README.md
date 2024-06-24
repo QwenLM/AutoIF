@@ -1,17 +1,19 @@
 # Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
 
-![Large Language Models](https://img.shields.io/badge/Model-Large%20Language%20Models-red)
-![Instruction Following](https://img.shields.io/badge/Task-Instruction%20Following-blue)
-
-## :sparkles: Overview
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-play-with-execution-feedback-improving/instruction-following-on-ifeval)](https://paperswithcode.com/sota/instruction-following-on-ifeval?p=self-play-with-execution-feedback-improving)
 
 *Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou*
 
 Qwen, Alibaba Inc.
 
-This is the repository contains core implementations of the **AutoIF**, proposed by [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models]().
+---
 
-AutoIF is the first scalable and reliable method for automatically generating instruction-following training data.
+## :sparkles: Overview
+
+
+This is the repository contains core implementations of the **AutoIF**, proposed by [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://arxiv.org/abs/2406.13542).
+
+**AutoIF** is the first scalable and reliable method for automatically generating instruction-following data and verifying its quality using code execution feedback.
 
 <img width="1176" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/1fac1764-a9fb-457d-ba90-7f0e08ff4153">
 
@@ -230,5 +232,23 @@ For the implementations details between training 7B and 70B models, please refer
 
 <img width="967" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/3f8e9fc3-5dab-4167-bcf1-df673e3a59b9">
 
+---
+
+
+## Citation
+
+If you find this work helpful for your research, please kindly cite it.
+
+
+```bibtex
+@misc{dong2024selfplay,
+      title={Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models}, 
+      author={Guanting Dong and Keming Lu and Chengpeng Li and Tingyu Xia and Bowen Yu and Chang Zhou and Jingren Zhou},
+      year={2024},
+      eprint={2406.13542},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}
+```
 
 
