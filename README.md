@@ -71,7 +71,7 @@ python 3_cross_validation.py
 
 **Step4 & 5: Back Translation**
 
-Please back transalte verification funcs to instructions, and then use [mDeBERTa](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7) for consistency filtering.
+Please back translate verification funcs to instructions, and then use [mDeBERTa](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7) for consistency filtering.
 
 ```bash
 python 4_eval_func_backtranslator.py
