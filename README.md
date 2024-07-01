@@ -15,7 +15,8 @@ This is the repository contains core implementations of the **AutoIF**, proposed
 
 **AutoIF** is the first scalable and reliable method for automatically generating instruction-following data and verifying its quality using code execution feedback.
 
-<img width="1176" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/1fac1764-a9fb-457d-ba90-7f0e08ff4153">
+![image](https://github.com/dongguanting/AutoIF/assets/60767110/6c222465-25a4-4dec-ade6-d3a5af80ba39)
+
 
 
 ## :rocket: Data Synthesis of AutoIF
@@ -36,7 +37,8 @@ pip install -r requirements.txt
 ## Instruction Augmentation and Verification
 
 Firstly, we hand-write 36 seed instructions：
-<img width="757" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/56ae3a0e-bf33-4bc5-a965-3d2839f13d75">
+![image](https://github.com/dongguanting/AutoIF/assets/60767110/62518bd7-f5d9-4a33-a85f-1327b77e4dcb)
+
 
 
 **Step1: Self-instruct Seed Instructions** 
@@ -71,7 +73,7 @@ python 3_cross_validation.py
 
 **Step4 & 5: Back Translation**
 
-Please back transalte verification funcs to instructions, and then use [mDeBERTa](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7) for consistency filtering.
+Please back translate verification funcs to instructions, and then use [mDeBERTa](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7) for consistency filtering.
 
 ```bash
 python 4_eval_func_backtranslator.py
@@ -119,7 +121,8 @@ python 9_sft_data_construction.py
 ## ⚡ DPO Data Construction
 
 
-<img width="1178" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/ffd5d155-ae71-4be2-a975-5deb181a818e">
+
+![image](https://github.com/dongguanting/AutoIF/assets/60767110/89e99b23-d7b4-4691-8dd0-3dcb14896ec9)
 
 
 :sparkles:Tips:
@@ -230,7 +233,8 @@ For the implementations details between training 7B and 70B models, please refer
 ## :mag_right: Overall Results
 
 
-<img width="967" alt="image" src="https://github.com/dongguanting/AutoIF/assets/60767110/3f8e9fc3-5dab-4167-bcf1-df673e3a59b9">
+![image](https://github.com/dongguanting/AutoIF/assets/60767110/6cffd39b-3d34-42ce-9739-79bd0c23208f)
+
 
 ---
 
