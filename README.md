@@ -246,11 +246,28 @@ If you find this work helpful for your research, please kindly cite it.
 
 ```bibtex
 @article{dong2024self,
-  title={Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models},
-  author={Dong, Guanting and Lu, Keming and Li, Chengpeng and Xia, Tingyu and Yu, Bowen and Zhou, Chang and Zhou, Jingren},
-  journal={arXiv preprint arXiv:2406.13542},
-  year={2024}
+  author       = {Guanting Dong and
+                  Keming Lu and
+                  Chengpeng Li and
+                  Tingyu Xia and
+                  Bowen Yu and
+                  Chang Zhou and
+                  Jingren Zhou},
+  title        = {Self-play with Execution Feedback: Improving Instruction-following
+                  Capabilities of Large Language Models},
+  journal      = {CoRR},
+  volume       = {abs/2406.13542},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2406.13542},
+  doi          = {10.48550/ARXIV.2406.13542},
+  eprinttype    = {arXiv},
+  eprint       = {2406.13542},
+  timestamp    = {Fri, 12 Jul 2024 19:38:47 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2406-13542.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+
 ```
 
 
